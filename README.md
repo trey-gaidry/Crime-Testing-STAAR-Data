@@ -1,2 +1,3 @@
 # Crime Testing STAAR Data
- Data on crime, demographics and test score in Austin 
+
+Exploratory analysis of crime and demographics on high school standardized math test scores. 
